@@ -1,0 +1,15 @@
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.csproj.AssemblyReference.cache
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.AssemblyInfoInputs.cache
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.AssemblyInfo.cs
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.csproj.CoreCompileInputs.cache
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\bin\Debug\net6.0\DotNet.exe
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\bin\Debug\net6.0\DotNet.deps.json
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\bin\Debug\net6.0\DotNet.runtimeconfig.json
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\bin\Debug\net6.0\DotNet.dll
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\bin\Debug\net6.0\DotNet.pdb
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.dll
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\refint\DotNet.dll
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.pdb
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\DotNet.genruntimeconfig.cache
+C:\Users\Lahcen Lamkirich\Desktop\Enset S5\DotNet\obj\Debug\net6.0\ref\DotNet.dll
